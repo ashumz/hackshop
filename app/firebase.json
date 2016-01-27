@@ -1,0 +1,8 @@
+{
+  "firebase": "hackshop",
+  "public": "all",
+  "ignore": [
+    "firebase.json",
+    "**/node_modules/**"
+  ]
+}
