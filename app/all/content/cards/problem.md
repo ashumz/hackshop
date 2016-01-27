@@ -1,6 +1,6 @@
 ### Find a problem that's worth solving
 
-Grab a lean canvas, if you don't have one already:
+Go to [Canvanizer](https://canvanizer.com/new/lean-canvas) to create a lean canvas. Alternatively, you can bring the canvas below.
 
 ![Lean Canvas](http://1zdtw21ubuji3i00b23nl364.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-9.38.44-AM.png)
 
