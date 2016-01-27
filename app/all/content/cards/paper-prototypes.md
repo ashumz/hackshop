@@ -1,7 +1,7 @@
 ### Paper Prototypes
 
 You should have several ideas from your brainstorming session. 
-- [ ] Group any similar ideas together 
+- [ ] Group any similar ideas together.
 - [ ] Take one idea (or group of ideas) per person and spend [5 minutes](https://www.google.com/#q=timer) building a paper prototype.
 
 #### How to build a paper prototype
