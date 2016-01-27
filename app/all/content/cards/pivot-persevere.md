@@ -9,3 +9,5 @@ If you received feedback that makes you want to rethink your problem, customer s
 - Update your lean canvas, and consider going back to the brainstorming and paper prototyping phase to take another shot at it.
 
 Keep iterating until you get feedback that tells you to push on!
+
+![Pivot!](https://media0.giphy.com/media/2OP9jbHFlFPW/200.gif)
