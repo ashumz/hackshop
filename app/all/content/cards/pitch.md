@@ -16,5 +16,3 @@ So tell us how you solved it, and for who. Convince us that it's not just you wh
 What are your next steps? 
 Where are you going to take it? 
 If you've sold us on it, we'll want to help you. Tell us how to help.
-
-![Pitch](https://media1.giphy.com/media/MCQxGH1hNPuqA/200.gif)
