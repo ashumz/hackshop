@@ -6,6 +6,6 @@
 
 - [ ] Group similar ideas together.
 
-When you're finished, you're ready to move on to the fun part-- creating paper prototypes!
+When you're finished, you're ready to move on to creating paper prototypes!
 
 ![screen shot 2016-01-28 at 4 25 30 pm](https://cloud.githubusercontent.com/assets/100216/12662189/d40df98c-c5db-11e5-9517-e3d613a904b9.png)
